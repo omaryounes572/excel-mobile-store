@@ -31,4 +31,4 @@ By providing clear visual insights, this project helped the company identify top
 ---
 
 ## 📷 Screenshot
-*(Add your dashboard image here)*
+<img width="441" height="502" alt="image" src="https://github.com/user-attachments/assets/15ce1230-a3a0-4e90-b72f-abcec12cc2e5" />
